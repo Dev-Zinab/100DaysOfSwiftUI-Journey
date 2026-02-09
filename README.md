@@ -1,7 +1,9 @@
 <div align="center">
 
-# 🧠✨ 100 Days of SwiftUI — Learning Journey
-
+<h1 align="center">
+100 Days of SwiftUI — Learning Journey
+<img src="https://octodex.github.com/images/inflatocat.png" width="70"/>
+</h1>
 Documenting my SwiftUI learning journey with code examples, notes, and experiments.
 
 ![Swift](https://img.shields.io/badge/Swift-Learning-orange)
